@@ -35,8 +35,6 @@ I’m a BCA student who enjoys tackling technical challenges and coding problems
 - ## 🚀 Projects
 Here are some of the projects I’m working on or have completed:
 
-- **[QuickBites Food Order System](https://github.com/Mahekbud/QuickBites_Food_Order_System_FastAPI)**: A backend system built with FastAPI for managing food orders. It integrates various tools like SQLAlchemy for database management and JWT for secure user authentication.
+- **[QuickBites Food Order System](https://github.com/Mahekbud/QuickBites_Food_Order_System_FastAPI)**: A robust backend system built with FastAPI for food order management. It supports order placement, real-time tracking, and integrates SQLAlchemy for database management and JWT for secure authentication, ensuring a smooth user experience from browsing to checkout.
 
-- **[TaskTracker Todo Project](https://github.com/Mahekbud/TaskTracker_Todo_Project_FastAPI)**: A simple and efficient Todo application developed with FastAPI. It allows users to create, update, and manage their tasks, providing a straightforward interface for task management.
-
-Feel free to explore these projects and see what I've been working on. If you have any questions or want to collaborate, don’t hesitate to reach out!
+- **[TaskTracker Todo Project](https://github.com/Mahekbud/TaskTracker_Todo_Project_FastAPI)**: An advanced Todo application built with FastAPI. This project supports complex features such as task categorization, priority management, user collaboration, and real-time updates. It leverages sophisticated backend logic and database operations to offer a comprehensive task management experience.
