@@ -27,7 +27,7 @@ I’m always open to collaboration and contributions. If you’re interested in 
 Thanks for stopping by! 👩‍💻🚀
 
 ## ⚡ Fun Fact:
-I’m a BCA student who loves tackling technical challenges and coding problems, and I’m excited to turn my passion for programming into a career in tech!
+I’m a BCA student who enjoys tackling technical challenges and coding problems, and I’m excited to turn my passion for programming into a career in tech!
 
 ## 📚 Education
 - **Bachelor of Computer Applications (BCA)** from Bhakt Kavi Narsinh Mehta University
